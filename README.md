@@ -1,4 +1,4 @@
-what the fuck am i even doing here
+when you drop your pulls to the thread, you should make sure to initialize the pull. you'll be able to grab the pulls and superstantiate the thread, and from there you can declare the griplo to fleep. Fleeping the griplos will let you blope the deep-doops and add them to a novella, and then when you pull the griplos from the novella they'll be pre-superinitialized. and that's how you count to three in PPscript++. :)
 
 it/they pronouns
 
